@@ -16,7 +16,7 @@
 </div>
 
 
-### Próximas tecnologias a serem estudadas posteriormente:
+### Tecnologias a serem estudadas posteriormente:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img align="center" alt="html" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whitelogoColor=white"/><img align="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img align="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img align="center" alt="html" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><img align="center"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img align="right" alt="gif-gatinho" height="80" style="border-radius:100px;" src="https://i.gifer.com/origin/6c/6c9ea441aacc292a31d3fd7184a456e3.gif"><img align="center" alt="html" src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg"/>
